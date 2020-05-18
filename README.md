@@ -5,5 +5,6 @@
 - 日志系统（单例模式 + 异步）
 - 可以解析HTTP的GET或POST请求报文，可以请求的内容包括视频、图片、pdf文件等；
 - webbench测试结果如下：
+
 ![](./resource/webbench.PNG)
 
